@@ -1,0 +1,20 @@
+# Datos combinados de "papel" y "baterías"
+
+train:
+  - C:\datasets\proyecto\train\images
+
+val:
+  - C:\datasets\proyecto\valid\images
+
+test:
+  - C:\datasets\proyecto\test\images
+
+
+nc: 3
+names: ['organico', 'reciclable','no_reciclable']
+
+roboflow:
+  workspace: meetdhote
+  project: seminario
+  version: 1
+  license: CC BY 4.0
