@@ -1,3 +1,4 @@
+#Codigo principal para entrenar el modelo
 if __name__ == "__main__":
     # Importa la librería YOLO de ultralytics
     from ultralytics import YOLO

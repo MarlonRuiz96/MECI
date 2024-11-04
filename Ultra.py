@@ -1,3 +1,4 @@
+#Para entrenar con ultratitics
 from ultralytics import YOLO, checks, hub
 checks()
 
